@@ -47,12 +47,9 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://www.instagram.com/b4tista._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Daniel Augusto Batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="[https://www.linkedin.com/in/Daniel Augusto Batista](https://www.linkedin.com/in/daniel-batista12/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/dani.guto911@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
-
-
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
+✨
 
 
