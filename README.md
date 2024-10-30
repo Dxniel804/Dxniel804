@@ -6,6 +6,8 @@
 - 💻 Eu sou um desenvolvedor [Front-End | Back-End]
 - 😄 Pronouns: ele/dele
 
+- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
